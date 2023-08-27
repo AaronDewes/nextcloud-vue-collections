@@ -1,5 +1,5 @@
 {
-  "name": "nextcloud-vue-collections",
+  "name": "@waldbaur/nextcloud-vue-collections",
   "version": "0.11.1",
   "description": "Nextcloud vue components for collections",
   "keywords": [
