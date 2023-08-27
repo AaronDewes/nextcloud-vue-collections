@@ -1,6 +1,6 @@
 {
   "name": "@waldbaur/nextcloud-vue-collections",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "description": "Nextcloud vue components for collections",
   "keywords": [
     "vuejs",
